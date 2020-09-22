@@ -16,6 +16,7 @@ public class GItLear {
 	 */
 	public static void main(String[] args) {
 		System.out.println("git b 1");
+		System.out.println("git b 1.1");
 	}
 	
 }
