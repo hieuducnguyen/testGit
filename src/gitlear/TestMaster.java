@@ -13,10 +13,15 @@ public class TestMaster {
 
 	public static void main(String[] args) {
 		testBranch3();
+		testMasterBranch();
 	}
 
 	private static void testBranch3() {
 		System.out.println("testBranch3");
+	}
+
+	private static void testMasterBranch() {
+		System.out.println("testMasterBranch");
 	}
 	void addFuncInMaster() {
 		System.out.println("addFuncInMaster");
