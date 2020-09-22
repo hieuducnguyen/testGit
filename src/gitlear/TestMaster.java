@@ -15,6 +15,7 @@ public class TestMaster {
 		testBranch3();
 		testBranch4();
 		testMasterBranch();
+		testBrach5();
 	}
 
 	private static void testBranch3() {
@@ -28,6 +29,11 @@ public class TestMaster {
 	private static void testMasterBranch() {
 		System.out.println("testMasterBranch");
 	}
+
+	private static void testBrach5() {
+		System.out.println("testBranch5");
+	}
+
 	void addFuncInMaster() {
 		System.out.println("addFuncInMaster");
 	}
