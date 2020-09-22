@@ -13,11 +13,16 @@ public class TestMaster {
 
 	public static void main(String[] args) {
 		testBranch3();
+		testBranch4();
 		testMasterBranch();
 	}
 
 	private static void testBranch3() {
 		System.out.println("testBranch3");
+	}
+
+	private static void testBranch4() {
+		System.out.println("testBranch4");
 	}
 
 	private static void testMasterBranch() {
