@@ -10,5 +10,8 @@ package gitlear;
  * @author hieund3
  */
 public class TestMaster {
-	
+
+	void addFuncInMaster() {
+		System.out.println("addFuncInMaster");
+	}
 }
