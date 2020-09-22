@@ -9,7 +9,7 @@ package gitlear;
  *
  * @author hieund3
  */
-public class TestBranch_1 {
+public class TestBranch_2 {
 
 	public static void main(String[] args) {
 		System.out.println("");
